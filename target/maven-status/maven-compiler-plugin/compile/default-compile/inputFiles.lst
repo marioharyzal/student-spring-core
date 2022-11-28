@@ -1,0 +1,17 @@
+/home/user/Dev/git-orang/new-app-basis-data-mahasiswa-main/src/main/java/com/enigmacamp/student/repository/StudentRepositoryImpl.java
+/home/user/Dev/git-orang/new-app-basis-data-mahasiswa-main/src/main/java/com/enigmacamp/student/util/Error.java
+/home/user/Dev/git-orang/new-app-basis-data-mahasiswa-main/src/main/java/com/enigmacamp/student/repository/StudentRepository.java
+/home/user/Dev/git-orang/new-app-basis-data-mahasiswa-main/src/main/java/com/enigmacamp/student/model/Major.java
+/home/user/Dev/git-orang/new-app-basis-data-mahasiswa-main/src/main/java/TesCode.java
+/home/user/Dev/git-orang/new-app-basis-data-mahasiswa-main/src/main/java/com/enigmacamp/student/util/ErrorResponse.java
+/home/user/Dev/git-orang/new-app-basis-data-mahasiswa-main/src/main/java/com/enigmacamp/student/service/StudentService.java
+/home/user/Dev/git-orang/new-app-basis-data-mahasiswa-main/src/main/java/com/enigmacamp/student/validation/StudentNameLengthValidation.java
+/home/user/Dev/git-orang/new-app-basis-data-mahasiswa-main/src/main/java/com/enigmacamp/student/config/BeanConfiguration.java
+/home/user/Dev/git-orang/new-app-basis-data-mahasiswa-main/src/main/java/com/enigmacamp/student/util/SuccessResponse.java
+/home/user/Dev/git-orang/new-app-basis-data-mahasiswa-main/src/main/java/com/enigmacamp/student/AppStudent.java
+/home/user/Dev/git-orang/new-app-basis-data-mahasiswa-main/src/main/java/com/enigmacamp/student/util/ResponseStatus.java
+/home/user/Dev/git-orang/new-app-basis-data-mahasiswa-main/src/main/java/com/enigmacamp/student/validation/Validation.java
+/home/user/Dev/git-orang/new-app-basis-data-mahasiswa-main/src/main/java/com/enigmacamp/student/validation/EmptyAgeValidation.java
+/home/user/Dev/git-orang/new-app-basis-data-mahasiswa-main/src/main/java/com/enigmacamp/student/validation/StudentAgeValidation.java
+/home/user/Dev/git-orang/new-app-basis-data-mahasiswa-main/src/main/java/com/enigmacamp/student/service/StudentServiceImpl.java
+/home/user/Dev/git-orang/new-app-basis-data-mahasiswa-main/src/main/java/com/enigmacamp/student/model/Student.java
